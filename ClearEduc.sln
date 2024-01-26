@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserJWT.Web", "UserJWT.Web\UserJWT.Web.csproj", "{C06086E6-C9F6-4407-97AC-A36B16BC75BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearEduc.Web", "ClearEduc.Web\ClearEduc.Web.csproj", "{C06086E6-C9F6-4407-97AC-A36B16BC75BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserJWT.Domain", "UserJWT.Domain\UserJWT.Domain.csproj", "{ADF7FDFB-C8D4-4695-89DF-DF91783472DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearEduc.Domain", "ClearEduc.Domain\ClearEduc.Domain.csproj", "{ADF7FDFB-C8D4-4695-89DF-DF91783472DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserJWT.Infrastructure", "UserJWT.Infrastructure\UserJWT.Infrastructure.csproj", "{681DCB37-CF4A-4895-BD6C-FAF3093FC510}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearEduc.Infrastructure", "ClearEduc.Infrastructure\ClearEduc.Infrastructure.csproj", "{681DCB37-CF4A-4895-BD6C-FAF3093FC510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserJWT.Application", "UserJWT.Application\UserJWT.Application.csproj", "{4C58410C-70C3-42F4-A26C-6BBFCD7D7A25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearEduc.Application", "ClearEduc.Application\ClearEduc.Application.csproj", "{4C58410C-70C3-42F4-A26C-6BBFCD7D7A25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

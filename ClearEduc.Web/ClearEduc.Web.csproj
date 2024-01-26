@@ -26,8 +26,8 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\UserJWT.Domain\UserJWT.Domain.csproj"/>
-        <ProjectReference Include="..\UserJWT.Infrastructure\UserJWT.Infrastructure.csproj"/>
+        <ProjectReference Include="..\ClearEduc.Domain\ClearEduc.Domain.csproj" />
+        <ProjectReference Include="..\ClearEduc.Infrastructure\ClearEduc.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>

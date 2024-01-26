@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using UserJWT.Domain.Models;
+using ClearEduc.Domain.Models;
 
-namespace UserJWT.Infrastructure.Data;
+namespace ClearEduc.Infrastructure.Data;
 
 public class DataContext : DbContext
 {

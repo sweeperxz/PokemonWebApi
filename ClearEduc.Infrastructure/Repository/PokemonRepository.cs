@@ -1,8 +1,8 @@
-﻿using UserJWT.Application.Interfaces;
-using UserJWT.Domain.Models;
-using UserJWT.Infrastructure.Data;
+﻿using ClearEduc.Application.Interfaces;
+using ClearEduc.Domain.Models;
+using ClearEduc.Infrastructure.Data;
 
-namespace UserJWT.Infrastructure.Repository;
+namespace ClearEduc.Infrastructure.Repository;
 
 public class PokemonRepository(DataContext context) : IPokemonRepository
 {

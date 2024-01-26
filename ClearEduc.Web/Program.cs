@@ -1,8 +1,7 @@
+using ClearEduc.Application.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using UserJWT.Application.Interfaces;
-using UserJWT.Infrastructure.Data;
-using UserJWT.Infrastructure.Repository;
-using UserJWT.Web;
+using ClearEduc.Infrastructure.Data;
+using ClearEduc.Infrastructure.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 

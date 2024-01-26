@@ -1,6 +1,6 @@
-﻿using UserJWT.Domain.Models;
+﻿using ClearEduc.Domain.Models;
 
-namespace UserJWT.Application.Interfaces;
+namespace ClearEduc.Application.Interfaces;
 
 public interface IPokemonRepository
 {

@@ -1,4 +1,4 @@
-﻿namespace UserJWT.Domain.Models;
+﻿namespace ClearEduc.Domain.Models;
 
 public class Pokemon
 {

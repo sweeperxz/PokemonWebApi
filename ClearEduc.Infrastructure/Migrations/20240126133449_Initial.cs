@@ -4,7 +4,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace UserJWT.Infrastructure.Migrations
+namespace ClearEduc.Infrastructure.Migrations
 {
     /// <inheritdoc />
     public partial class Initial : Migration
